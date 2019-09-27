@@ -6,5 +6,6 @@ void main()
 {
 	clrscr();
 	printf("Hello World");
+	printf("Have good day");
 	getch();
 }
